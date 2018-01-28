@@ -1,3 +1,5 @@
+此代码是转别人的，并非自己编写。如有侵权，请通知我，我会第一时间删除。
+
 V2Ray.sh
 https://github.com/FunctionClub/V2ray-Bash  搜索缓存
 
